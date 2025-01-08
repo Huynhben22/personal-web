@@ -1,19 +1,10 @@
-Ben Huynh - Personal Website
+# Ben Huynh's Personal Website
 
-Welcome to my personal website, a showcase of my professional experience, projects, and skills. This site highlights my passion for software engineering and network security, demonstrating my abilities in web development, full-stack applications, and secure telehealth systems.
+Welcome to my personal portfolio website! This is a space where I showcase my projects, skills, and professional journey as a Computer Science student and aspiring software engineer.
 
-Live Site
+## 🖥️ About Me
+I’m a senior at Western Washington University, pursuing a Bachelor of Science in Computer Science with a strong foundation in software development, network security, and data analysis. My passion lies in creating innovative solutions and exploring cutting-edge technologies.
 
-Visit my websiteFeel free to explore and learn more about my journey!
-
-About Me
-
-I am a dedicated and enthusiastic Computer Science student at Western Washington University, with a focus on secure software systems and full-stack web development. I have gained hands-on experience through internships, research roles, and personal projects that showcase my ability to deliver reliable and user-centric software solutions.
-
-Key Highlights:
-
-Bachelor of Science in Computer Science (Expected: June 2025)
-
-Internships in Software Engineering and Web Development
-
-Research on HIPAA-compliant telehealth platforms
+📍 Bellingham, WA  
+📧 [HuynhBen22@yahoo.com](mailto:HuynhBen22@yahoo.com)  
+🔗 [LinkedIn](https://linkedin.com/in/huynhben22)
