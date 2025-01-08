@@ -129,7 +129,7 @@ const PersonalWebsite = () => {
                 className="rounded-full w-48 h-48 object-cover border-4 border-white shadow-xl"
               />
             </div>
-            <h1 className="text-5xl font-bold mb-4 bg-gradient-to-r from-purple-600 via-blue-600 to-purple-600 bg-clip-text text-transparent">
+            <h1 className="text-5xl font-bold mb-8 pb-2 bg-gradient-to-r from-purple-600 via-blue-600 to-purple-600 bg-clip-text text-transparent">
               Software Engineer
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
@@ -157,7 +157,7 @@ const PersonalWebsite = () => {
       {/* Experience Section */}
       <div id="experience" className="py-20">
         <div className="max-w-6xl mx-auto px-4">
-          <h2 className="text-4xl font-bold text-center mb-16 bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
+          <h2 className="text-4xl font-bold text-center mb-16 pb-2 bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
             Experience
           </h2>
           <div className="grid md:grid-cols-2 gap-8">
@@ -190,7 +190,7 @@ const PersonalWebsite = () => {
       {/* Projects Section */}
       <div id="projects" className="py-20 bg-gradient-to-br from-purple-50 via-blue-50 to-purple-50">
         <div className="max-w-6xl mx-auto px-4">
-          <h2 className="text-4xl font-bold text-center mb-16 bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
+          <h2 className="text-4xl font-bold text-center mb-16 pb-2 bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent">
             Projects
           </h2>
           <div className="grid md:grid-cols-2 gap-8">
