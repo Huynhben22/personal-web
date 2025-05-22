@@ -135,3 +135,9 @@
     background-position: 100% 50%;
   }
 }
+.profile-image {
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+  image-rendering: optimize-contrast;
+}

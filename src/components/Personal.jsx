@@ -1,6 +1,6 @@
 import React from 'react';
-import { Coffee, Waves, Gamepad2, Zap, Mail } from 'lucide-react';
-import dogo from '../images/dogo.jpg';
+import { Coffee, Waves, Gamepad2, Zap, Mail, Heart, PawPrint } from 'lucide-react';
+import dogo from '../images/dogo.png';
 
 const Personal = () => {
   const personalInterests = [
@@ -35,9 +35,9 @@ const Personal = () => {
         
                 <div className="mt-24 text-center">
           <h3 className="text-3xl font-bold text-white mb-8 flex items-center justify-center gap-3">
-            <Heart className="text-pink-400" size={32} />
+            <PawPrint className="text-pink-400" size={32} />
             My Best Friend
-            <Heart className="text-pink-400" size={32} />
+            <PawPrint className="text-pink-400" size={32} />
           </h3>
           
           <div className="bg-gray-800/50 backdrop-blur-md p-8 rounded-2xl shadow-xl border border-gray-700 max-w-2xl mx-auto">
@@ -45,7 +45,7 @@ const Personal = () => {
               <img
                 src={dogo}
                 alt="Ben and his dog"
-                className="w-full max-w-md h-64 rounded-xl object-cover mx-auto border-2 border-pink-500/30 shadow-lg"
+                className="w-full max-w-md rounded-xl object-contain mx-auto border-2 border-pink-500/30 shadow-lg"
               />
             </div>
             <p className="text-gray-300 text-lg leading-relaxed">
