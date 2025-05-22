@@ -1,5 +1,6 @@
 import React from 'react';
 import { Coffee, Waves, Gamepad2, Zap, Mail } from 'lucide-react';
+import dogo from '../images/dogo.jpg';
 
 const Personal = () => {
   const personalInterests = [
@@ -32,6 +33,29 @@ const Personal = () => {
           })}
         </div>
         
+                <div className="mt-24 text-center">
+          <h3 className="text-3xl font-bold text-white mb-8 flex items-center justify-center gap-3">
+            <Heart className="text-pink-400" size={32} />
+            My Best Friend
+            <Heart className="text-pink-400" size={32} />
+          </h3>
+          
+          <div className="bg-gray-800/50 backdrop-blur-md p-8 rounded-2xl shadow-xl border border-gray-700 max-w-2xl mx-auto">
+            <div className="mb-6">
+              <img
+                src={dogo}
+                alt="Ben and his dog"
+                className="w-full max-w-md h-64 rounded-xl object-cover mx-auto border-2 border-pink-500/30 shadow-lg"
+              />
+            </div>
+            <p className="text-gray-300 text-lg leading-relaxed">
+              Meet my unofficial little brother, Gumball! Always by my side through thick and thin, 
+              he's the best motivation for pushing through all my problems, no matter how challenging. 
+              The perfect balance to a developer's life! 🐾
+            </p>
+          </div>
+        </div>
+
         <div className="mt-16 text-center">
           <div className="bg-gray-800/50 backdrop-blur-md p-8 rounded-2xl shadow-xl border border-gray-700 max-w-4xl mx-auto">
             <h3 className="text-2xl font-bold text-white mb-4">Let's Connect</h3>
